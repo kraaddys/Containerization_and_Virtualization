@@ -450,4 +450,3 @@
 2. Официальный сайт Debian. [https://www.debian.org](https://www.debian.org)
 3. Официальная документация QEMU. [https://www.qemu.org/documentation](https://www.qemu.org/documentation)
 4. GitHub репозитории для настройки Debian. [https://gist.github.com/hakerdefo/5e1f51fa93ff37871b9ff738b05ba30f](https://gist.github.com/hakerdefo/5e1f51fa93ff37871b9ff738b05ba30f)
-5. Нейросеть ChatGPT [https://chatgpt.com/](https://chatgpt.com/)
